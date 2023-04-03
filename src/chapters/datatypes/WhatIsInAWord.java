@@ -1,4 +1,4 @@
-package exercises;
+package chapters.datatypes;
 import java.util.Scanner;
 public class WhatIsInAWord {
     public static void main(String[] args) {

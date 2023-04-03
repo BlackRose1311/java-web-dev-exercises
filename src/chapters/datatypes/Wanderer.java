@@ -1,4 +1,4 @@
-package exercises;
+package chapters.datatypes;
 import java.util.Scanner;
 public class Wanderer {
     public static void main(String[] args) {
